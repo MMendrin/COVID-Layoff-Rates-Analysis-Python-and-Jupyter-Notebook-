@@ -1,6 +1,6 @@
 
 # Python Data Analysis on Layoffs During Covid-19 Pandemic
-
+M. Mendrin
 
 This project looks at layoff data from the start of the Covid-19 pandemic in March 2020, to the end of November 2022.
 The data used is imported from https://www.kaggle.com/datasets/swaptr/layoffs-2022?resource=download&select=layoffs.csv 
