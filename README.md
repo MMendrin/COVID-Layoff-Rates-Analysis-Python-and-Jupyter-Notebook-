@@ -13,4 +13,8 @@ Three different questions will be asked and addressed in this project:
 
 3) Was there a greater average percentage of layoffs in 2020 or 2022, and what insights might this difference in percentage reveal about the world in these two years?
 
+### If notebook preview does not allow for proper viewing, follow these instructions for an alternate form of viewing: 
 
+1). Click on "Final Project Covid-19 Layoffs Analysis.ipynb" file
+
+2). Copy website URL and paste into https://nbviewer.org/
